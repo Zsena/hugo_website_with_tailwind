@@ -1,4 +1,4 @@
-# Pehtheme Hugo with my father page
+# Pehtheme Hugo
 
 ## Features
 
