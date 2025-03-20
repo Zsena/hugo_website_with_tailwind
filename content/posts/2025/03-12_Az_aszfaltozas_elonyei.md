@@ -15,8 +15,6 @@ tags:
 draft: false
 ---
 
-# **Az aszfaltozás előnyei magán- és ipari területeken**  
-
 Az **aszfaltozás** az egyik legnépszerűbb burkolási módszer **lakossági és ipari területeken** egyaránt. Nézzük, miért ez a legjobb választás!
 
 ## **1. Tartósság és időtállóság**  

@@ -16,8 +16,6 @@ tags:
 draft: false
 ---
 
-# **Aszfaltozás vagy térkövezés – Melyik a jobb választás?**  
-
 Ha egy új **bejárót, parkolót vagy udvart** szeretne burkolni, két népszerű megoldás áll rendelkezésre: **aszfaltozás vagy térkövezés**. Mindkettőnek megvannak a maga előnyei és hátrányai. Nézzük meg, melyik az ideális választás az Ön számára!  
 
 ## **Aszfaltozás – Gyors és strapabíró**  

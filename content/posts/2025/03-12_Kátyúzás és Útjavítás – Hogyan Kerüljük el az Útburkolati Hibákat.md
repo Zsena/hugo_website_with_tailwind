@@ -17,8 +17,6 @@ tags:
 draft: false
 ---
 
-# **Kátyúzás és útjavítás – Hogyan kerüljük el az útburkolati hibákat?**  
-
 A **kátyúk és útfelületi sérülések** nemcsak zavaróak, hanem veszélyesek is. Ha nem javítjuk ki őket időben, a burkolat állapota tovább romlik, és **növekednek a javítási költségek**. Ebben a cikkben bemutatjuk a legfontosabb tudnivalókat az útjavításról és a kátyúzásról.  
 
 ## **Miért alakulnak ki kátyúk?**  

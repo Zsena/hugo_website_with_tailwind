@@ -15,8 +15,6 @@ tags:
 draft: false
 ---
 
-# **A leggyakoribb aszfaltozási hibák és elkerülésük**  
-
 Bár az aszfaltozás egy tartós és gazdaságos burkolási módszer, **bizonyos hibák miatt az útburkolat idő előtt tönkremehet**. Nézzük, melyek a leggyakoribb problémák és hogyan előzhetők meg!  
 
 ## **1. Kátyúk és burkolati sérülések**  

@@ -16,8 +16,6 @@ tags:
 draft: false
 ---
 
-# **Milyen időjárási feltételek a legideálisabbak aszfaltozáshoz?**  
-
 Az **aszfaltozás sikere** nagyban függ az időjárási körülményektől. Túl hideg vagy túl nedves időben a burkolat nem köt meg megfelelően, ami hosszú távon károsíthatja az útfelületet.  
 
 ## **1. A Legjobb Időszak Aszfaltozásra**  

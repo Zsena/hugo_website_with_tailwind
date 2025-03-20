@@ -17,8 +17,6 @@ tags:
 draft: false
 ---
 
-# **Az aszfaltozás folyamata – Hogyan készül az új útburkolat?**  
-
 Az **aszfaltozás** egy összetett folyamat, amely több lépésből áll, hogy a végeredmény **strapabíró, időtálló és esztétikus** legyen. Ebben a cikkben végigvezetjük Önt az útfelület kialakításának legfontosabb szakaszain.  
 
 ## **1. Terület előkészítése**  

@@ -7,8 +7,6 @@ keywords: "aszfaltozás, útépítés, térburkolás, útfelújítás, ipari asz
 draft: false
 ---
 
-# Rólunk – ArchiTech Aszfaltozás  
-
 Az **ArchiTech Aszfaltozás** célja, hogy **tartós, megbízható és esztétikus burkolatokat** hozzon létre ügyfelei számára.  
 Legyen szó **új utak építéséről, térburkolásról vagy meglévő burkolatok felújításáról**, szakértő csapatunk modern technológiákkal és minőségi alapanyagokkal dolgozik, hogy minden projekt hosszú távon is megállja a helyét.  
 
@@ -41,11 +39,12 @@ Szüksége van megbízható **aszfaltozási, térburkolási vagy útfelújítás
 - +36 20 503 2515 
 
 📧 **Email:**  
+- [ajanlat@aszfaltozas-architech.hu](mailto:ajanlat@aszfaltozas-architech.hu) 
 - [aszfalt2014@gmail.com](mailto:aszfalt2014@gmail.com)  
 - [zsanett.tamas87@gmail.com](mailto:zsanett.tamas87@gmail.com)  
 
 🌍 **Weboldal:**  
-[https://architechaszfalt.geekrabbits.hu/](https://architechaszfalt.geekrabbits.hu/)  
+[https://aszfaltozas-architech.hu/](https://aszfaltozas-architech.hu/)  
 
 ---
 
@@ -63,12 +62,3 @@ Szüksége van megbízható **aszfaltozási, térburkolási vagy útfelújítás
 
 📜
 [ArchiTech Innovations Kft. – Cégadatok](https://www.e-cegjegyzek.hu/?cegadatlap/0109430209/Cegbetekintes)  
-
----
-
-## 🛠 **Miért válasszon minket?**  
-✅ **Gyors és precíz kivitelezés** – Hatékony munkafolyamatokkal dolgozunk  
-✅ **Kiváló ár-érték arány** – Költséghatékony megoldások  
-✅ **Tartós és minőségi burkolatok** – Hosszú távú garanciával  
-
-💡 **Vegye fel velünk a kapcsolatot még ma, és kérjen egyedi árajánlatot!** 🚧  

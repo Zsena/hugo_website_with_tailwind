@@ -19,8 +19,6 @@ tags:
 draft: false
 ---
 
-# **Hogyan növelhetjük az aszfalt élettartamát?**  
-
 Az aszfalt hosszú távú tartóssága **nem csak az alapanyagtól és a kivitelezéstől függ**, hanem a megfelelő karbantartástól is. Ha szeretné elkerülni a repedéseket és a kátyúkat, kövesse az alábbi tippeket!  
 
 ## **1. Rendszeres tisztítás és ellenőrzés**  

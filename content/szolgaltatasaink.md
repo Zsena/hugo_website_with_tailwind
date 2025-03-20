@@ -7,18 +7,16 @@ caption: "Aszfaltozási munkálatok"
 draft: false
 ---
 
-# **Szolgáltatásaink**  
-
 Az **ArchiTech Aszfaltozás** széleskörű szolgáltatásokat kínál **magánszemélyeknek, vállalkozásoknak és önkormányzatoknak**. Professzionális csapatunk modern technológiákkal és prémium minőségű alapanyagokkal dolgozik, hogy ügyfeleink tartós és esztétikus burkolatokat kapjanak.  
 
-## **1. Aszfaltozás és Útépítés**  
+## **1. Aszfaltozás és útépítés**  
 
 ✅ Magánutak, közterületek és ipari létesítmények burkolása  
 ✅ Új utak építése és meglévő burkolatok felújítása  
 ✅ Bitumenes burkolatok kialakítása  
 ✅ Precíz kivitelezés, hosszú élettartamú aszfalt  
 
-## **2. Kátyúzás és Aszfaltjavítás**  
+## **2. Kátyúzás és aszfaltjavítás**  
 
 A sérült útfelületek nemcsak esztétikai problémát jelentenek, hanem balesetveszélyesek is. Gyors és hatékony megoldást nyújtunk a burkolati hibák javítására.  
 
@@ -29,7 +27,7 @@ A sérült útfelületek nemcsak esztétikai problémát jelentenek, hanem bales
 4. **Aszfaltozás (ÁC-11)** – Magas minőségű aszfaltburkolat felhordása  
 5. **Tömörítés** – A burkolat stabilitásának biztosítása  
 
-## **3. Térkövezés és Térburkolás**  
+## **3. Térkövezés és térburkolás**  
 
 A térkövezés esztétikus és tartós megoldást nyújt **járdák, parkolók, teraszok és udvarok** kialakítására.  
 
@@ -37,7 +35,7 @@ A térkövezés esztétikus és tartós megoldást nyújt **járdák, parkolók,
 ✔ Csúszásmentes és időjárásálló burkolatok  
 ✔ Hosszú élettartam, minimális karbantartás  
 
-## **Miért válassza az ArchiTech Innovations Kft aszfaltozása?**  
+## **Miért válassza az ArchiTech Innovations Kft. aszfaltozását?**  
 
 🚧 **Gyors és precíz kivitelezés** – Rövid határidőkkel, professzionális csapattal dolgozunk.  
 🔧 **Minőségi alapanyagok** – Időtálló, strapabíró burkolatok minden területen.  
@@ -47,13 +45,18 @@ A térkövezés esztétikus és tartós megoldást nyújt **járdák, parkolók,
 ## **Kapcsolat**  
 
 📞 **Telefon:** +36 70 670 7886  
-📧 **Email:** aszfalt2014@gmail.com  
-🌍 **Weboldal:** [https://architechaszfalt.geekrabbits.hu/](architechaszfalt.geekrabbits.hu)  
+📧 **Email:**  
+- [ajanlat@aszfaltozas-architech.hu](mailto:ajanlat@aszfaltozas-architech.hu) 
+- [aszfalt2014@gmail.com](mailto:aszfalt2014@gmail.com)  
+- [zsanett.tamas87@gmail.com](mailto:zsanett.tamas87@gmail.com)  
+
+🌍 **Weboldal:**  
+[https://aszfaltozas-architech.hu/](https://aszfaltozas-architech.hu/)  
 
 Ha megbízható aszfaltozási és burkolási szolgáltatót keres, vegye fel velünk a kapcsolatot és kérjen ajánlatot még ma!
 
 
-## 📞 **Kapcsolat – Kérjen ajánlatot még ma!**  
+## 📞 **Kérjen ajánlatot még ma!**  
 
 Szüksége van megbízható **aszfaltozási, térburkolási vagy útfelújítási szolgáltatásra**? Vegye fel velünk a kapcsolatot, és kérjen **ingyenes árajánlatot** még ma!  
 
@@ -68,7 +71,7 @@ Szüksége van megbízható **aszfaltozási, térburkolási vagy útfelújítás
 - [zsanett.tamas87@gmail.com](mailto:zsanett.tamas87@gmail.com)  
 
 🌍 **Weboldal:**  
-[https://architechaszfalt.geekrabbits.hu/](https://architechaszfalt.geekrabbits.hu/)  
+[https://aszfaltozas-architech.hu/](https://aszfaltozas-architech.hu/)  
 
 ---
 
@@ -86,12 +89,3 @@ Szüksége van megbízható **aszfaltozási, térburkolási vagy útfelújítás
 
 📜
 [ArchiTech Innovations Kft. – Cégadatok](https://www.e-cegjegyzek.hu/?cegadatlap/0109430209/Cegbetekintes)  
-
----
-
-## 🛠 **Miért válasszon minket?**  
-✅ **Gyors és precíz kivitelezés** – Hatékony munkafolyamatokkal dolgozunk  
-✅ **Kiváló ár-érték arány** – Költséghatékony megoldások  
-✅ **Tartós és minőségi burkolatok** – Hosszú távú garanciával  
-
-💡 **Vegye fel velünk a kapcsolatot még ma, és kérjen egyedi árajánlatot!** 🚧  

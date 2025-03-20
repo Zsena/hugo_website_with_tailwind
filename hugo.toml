@@ -1,5 +1,5 @@
 # baseURL = 'localhost:1313'
-baseURL = 'http://architechaszfalt.geekrabbits.hu/'
+baseURL = 'https://aszfaltozas-architech.hu/'
 
 languageCode = 'hu-Hu'
 title = 'ArchiTech Aszfaltozás'

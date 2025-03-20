@@ -16,8 +16,6 @@ tags:
 draft: false
 ---
 
-# **Hogyan készítsük fel az utat aszfaltozásra?**  
-
 Az **aszfaltozás hosszú élettartama** nagyban függ attól, hogy milyen alaposan készítették elő az útfelületet. Egy rosszul előkészített alap **megrepedhet, süllyedhet vagy gyorsan károsodhat**.  
 
 ## **1. Régi burkolat eltávolítása és földmunka**  
